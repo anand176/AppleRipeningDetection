@@ -106,5 +106,5 @@ input_pred_label=np.argmax(input_prediction)
 if input_pred_label==1:
   print('ripe')
 else:
-  print('unripe')
+  print('unripened')
 
